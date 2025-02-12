@@ -10,7 +10,7 @@ const vt323 = VT323({
 
 export const metadata: Metadata = {
   title: "kai pereira - hacker from canada",
-  description: "hello world",
+  description: "i'm kai, a hacker from victoria, bc. i program anything from machine learning to operating systems and everything in between.",
 };
 
 export default function RootLayout({
